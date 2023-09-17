@@ -1,0 +1,15 @@
+{
+  "name": "Gnome Integration for Linux PowerToys",
+  "description": "This extension is required for Linux PowerToys to work on GNOME",
+  "uuid": "linuxpowertoys@ferrarodomenico.com",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "version": 1,
+  "url": "https://github.com/domferr/Linux-PowerToys",
+  "settings-schema": "org.gnome.shell.extensions.linuxpowertoys"
+}
